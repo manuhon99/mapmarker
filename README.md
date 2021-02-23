@@ -1,12 +1,8 @@
-<h1 align="center">
+<h3 align="center">
     Mobile app to show map markers from .json locations.
-</h1>
+</h3>
  
-<h4 align="center"> 
-	 Status: Development
-</h4>
-
-## Tech Stack
+#### Tech Stack
 
 The following tools were used in the construction of the project:
 - [Expo](https://expo.io/) 
