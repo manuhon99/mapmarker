@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "latitude": -25.4260833,
-        "longitude": -49.2789494
+        "latitude": -25.4260810,
+        "longitude": -49.2729310
     },
     {
         "id": 2,
-        "latitude": -25.4260850,
-        "longitude": -49.2785042
+        "latitude": -25.4260750,
+        "longitude": -49.285042
     }
     
 ]

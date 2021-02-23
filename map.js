@@ -27,8 +27,6 @@ export default function Map() {
               coordinate={{ 
                 latitude: db.latitude,
                 longitude: db.longitude,
-                //latitude: -25.4300722,
-                //longitude: -49.2867895,
               }}
           >
           </Marker>
